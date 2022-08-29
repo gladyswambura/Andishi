@@ -1,0 +1,19 @@
+.image1 {
+    width: 477.15px;
+    height: 319px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.image2 {
+    
+    width: 545px;
+    height: 329px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.navbar{
+    box-shadow: rgb(197, 194, 194);
+}
